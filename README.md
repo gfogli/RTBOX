@@ -8,7 +8,7 @@ Este repositório é destinado ao uso do RT-BOX CE em conjunto com o LAUNCHXL-F2
 
 Procedimento:
 
-1 - Baixar e colar a pasta "base_RTBOX_CE_FULL_2025" no diretório "workspace". 
+1 - Baixar o arquivo "base_RTBOX_CE_FULL_2025.rar" e extrair. 
 2 - No Code Compose Studio: Project -> Import CCS Projects -> em "Select Search Directory" procure pela pasta do projeto (como exemplo, deve ser algo como: C:\Users\...\workspace_v12\base_RTBOX_CE_full_2025) -> Finish [ Nesta etapa o projeto deve aparecer no "Project explorer"].
   2.1 - Clicar no símbolo de martelo (Compile). Compilar o código. 
 
